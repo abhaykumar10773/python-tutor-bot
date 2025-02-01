@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import NavBar from '../components/NavBar.tsx';
+import NavBar from '../components/Navbar';
 import { Bot, Brain, MessageSquare, Award } from 'lucide-react';
 
 function HomePage() {
